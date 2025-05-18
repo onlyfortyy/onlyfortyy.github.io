@@ -134,8 +134,8 @@ const musicData = [
     musicPath: "./assets/music/岁月里的花.mp3",
   },
   {
-    backgroundImage: "./assets/images/花花.jpg",
-    posterUrl: "./assets/images/花花.jpg",
+    backgroundImage: "./assets/images/花1.jpg",
+    posterUrl: "./assets/images/花1.jpg",
     title: "倒带",
     album: "回头看来，时间真的好快呀",
     year: "一定会一直幸福下去滴！！！",
